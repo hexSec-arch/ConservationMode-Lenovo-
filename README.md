@@ -22,15 +22,14 @@ This version provides a text-based user interface (TUI) that works in any termin
 - `dialog` (Install this manually on all devices except those running Ubuntu/Debian)
 
 #### How to Use
-1. Open terminal in the script directory
-2. Make the script executable (if not already):
-   ```bash
-   chmod +x toggle_conservation.sh
-   ```
-3. Run the script with sudo:
-   ```bash
-   sudo ./toggle_conservation.sh
-   ```
+
+1. Clone the repo 
+git clone https://github.com/hexSec-arch/ConservationMode-Lenovo-.git
+
+2. cd ConservationMode-Lenovo-
+
+3. sudo bash -x toggle_conservation.sh
+
 4. Navigate the menu:
    - Use ↑↓ arrow keys to select options
    - Press Enter to confirm selection
