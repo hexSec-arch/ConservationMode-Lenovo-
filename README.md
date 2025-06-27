@@ -23,14 +23,15 @@ This version provides a text-based user interface (TUI) that works in any termin
 
 #### How to Use
 
-1. Clone the repo 
+1. Clone the repo :
+   
 git clone https://github.com/hexSec-arch/ConservationMode-Lenovo-.git
 
-2. cd ConservationMode-Lenovo-
+3. cd ConservationMode-Lenovo-
 
-3. sudo bash -x toggle_conservation.sh
+4. sudo bash -x toggle_conservation.sh
 
-4. Navigate the menu:
+5. Navigate the menu:
    - Use ↑↓ arrow keys to select options
    - Press Enter to confirm selection
    - Press ESC or select Cancel to exit
